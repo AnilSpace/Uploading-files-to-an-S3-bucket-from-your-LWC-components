@@ -1,0 +1,7 @@
+Create Remote Site Settings 
+
+Remote Site Name	aws_S3
+Remote Site URL	https://your-bucket-name.s3.amazonaws.com
+Disable Protocol Security	Not Checked
+Description	
+Active	Checked
